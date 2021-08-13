@@ -13,7 +13,6 @@ public class Test60 {
             for (int i = 0; i < N; i++) {
                 String word = in.next();
                 w[i]=word;
-                word.r
             }
             int c=0;
             for (int i=0;i<N;i++){
