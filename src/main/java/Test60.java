@@ -12,7 +12,6 @@ public class Test60 {
                 w[i]=word;
             }
             int c=0;
-            w.
             for (int i=0;i<N;i++){
                 for (int j=i+1;j<N;j++){
                     if(!arr.contains(w[i]) && w[i].equals(w[j])){
